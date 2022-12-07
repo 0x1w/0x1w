@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @0x1w
+- 👀 I’m interested in software development and security
